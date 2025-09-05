@@ -1,5 +1,5 @@
 ## Contributors
 
-* *Add your name here in Task C*
-* Revilleza, Frederick (**@juantojuan**)
-* Alesna, Dione Ervin (**@dioneervin**)
+- _Add your name here in Task C_
+- Revilleza, Frederick (**@juantojuan**)
+- Alesna, Dione Ervin (**@dioneervin**)
